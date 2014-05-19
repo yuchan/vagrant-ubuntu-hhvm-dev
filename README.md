@@ -6,6 +6,6 @@ Usage:
     git submodule update
     vagrant up
 
-Enjoy!!
+Enjoy!!!
 
     
