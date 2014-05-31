@@ -1,4 +1,5 @@
-Usage:
+Usage
+----------
 
     git clone https://github.com/yuchan/vagrant-ubuntu-hhvm-dev.git
     cd vagrant-ubuntu-hhvm-dev
@@ -10,6 +11,8 @@ Usage:
 
 	vagrant up
 
-Enjoy!!!
+Dependencies
+--------------
 
+* [My Scripts](https://gist.github.com/yuchan/11079998)
     
