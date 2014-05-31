@@ -4,7 +4,11 @@ Usage:
     cd vagrant-ubuntu-hhvm-dev
     git submodule init
     git submodule update
-    vagrant up
+
+	# When you need to update submodules,
+	git submodule foreach git checkout master
+
+	vagrant up
 
 Enjoy!!!
 
